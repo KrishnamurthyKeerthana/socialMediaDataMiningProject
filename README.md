@@ -35,5 +35,8 @@ The program will generate CSV files and visualizations in the same directory as 
 Authors
 Keerthana Krishnamurthy and Bhumika Murali
 
+You can find the updated project on GitHub and can access it using the link below
+https://github.com/KrishnamurthyKeerthana/socialMediaDataMiningProject/tree/test
+
 License
 
