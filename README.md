@@ -27,6 +27,9 @@ Usage
 Replace the values of the consumer_key, consumer_secret, access_token, and access_token_secret variables in the code with your own Twitter API credentials.
 Modify the search_words and geocodes variables in the code to specify the search terms and locations you want to use.
 
+Run the code with the following command
+python walmart.py
+
 The program will generate CSV files and visualizations in the same directory as the code.
 
 Authors
